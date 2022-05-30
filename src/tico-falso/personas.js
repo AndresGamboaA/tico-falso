@@ -1,5 +1,5 @@
-const nombresHombres = require("./datos/nombre_hombres");
-const nombresMujeres = require("./datos/nombre_mujeres");
+const nombresHombres = require("./datos/nombres_hombres");
+const nombresMujeres = require("./datos/nombres_mujeres");
 const apellidos = require("./datos/apellidos");
 const Utils = require("./utils");
 
