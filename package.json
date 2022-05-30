@@ -1,0 +1,25 @@
+{
+  "name": "tico-falso",
+  "version": "0.0.1",
+  "description": "Generador de informacion falsa costarricense",
+  "main": "tico-falso.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresGamboaA/tico-falso.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Andres Gamboa Alfaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresGamboaA/tico-falso/issues"
+  },
+  "homepage": "https://github.com/AndresGamboaA/tico-falso#readme"
+}

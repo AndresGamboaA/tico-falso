@@ -1,4 +1,4 @@
-export default [
+const apellidos = [
     'Rodriguez',
     'Vargas',
     'Jimenez',
@@ -42,3 +42,4 @@ export default [
     'Murillo',
     'Soto'
 ]
+module.exports = {apellidos};

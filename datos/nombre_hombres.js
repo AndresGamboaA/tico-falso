@@ -1,4 +1,4 @@
-export default [
+const nombresHombres = [
     'Andrés',
     'Carlos',
     'Juan',
@@ -6,3 +6,5 @@ export default [
     'Jorge',
     'Victor'
 ]
+
+module.exports = {nombresHombres}

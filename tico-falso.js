@@ -1,11 +1,13 @@
-import nombre_hombres from "./datos/nombre_hombres.js";
-import nombre_mujeres from "./datos/nombre_mujeres.js";
-import apellidos from "./datos/apellidos.js";
-import {nombresProvincias, provincias} from "./datos/provincias.js";
+const nombre_hombres = require("./datos/nombre_hombres.js");
+const nombre_mujeres = require("./datos/nombre_mujeres.js");
+const apellidos = require("./datos/apellidos.js");
+const {nombresProvincias} = require("./datos/provincias.js");
+const {provincias} = require("./datos/provincias.js");
 
 
 class TicoFalso {
-    constructor() {}
+    constructor() {
+    }
 
     tico() {
         return `${this.nombreHombre()} ${this.nombreHombre()} ${this.apellido()} ${this.apellido()}`
@@ -108,4 +110,5 @@ function aleatorio(array) {
 }
 
 const ticoFalso = new TicoFalso();
-export default ticoFalso;
+
+module.exports = {ticoFalso};
