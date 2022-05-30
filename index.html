@@ -6,10 +6,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="main.js" type="module"></script>
+    <style>
+        .dato {
+            display: flex;
+        }
+        .dato p {
+            margin-left: 4px;
+        }
+    </style>
 </head>
 <body>
-    <h1 id="nombre"></h1>
-    <p id="empresa"></p>
-    <p id="canton"></p>
+    <div class="profile-container">
+        <div class="dato">
+            <p class="label">Nombre: </p>
+            <p id="nombre"></p>
+        </div>
+        <div class="dato">
+            <p class="label">Cédula:</p>
+            <p id="cedula"></p>
+        </div>
+        <div class="dato">
+            <p class="label">Provincia: </p>
+            <p id="provincia"></p>
+        </div class="dato">
+        <div class="dato">
+            <p class="label">Cantón:</p>
+            <p id="canton"></p>
+        </div>
+        <div class="dato">
+            <p class="label">Distrito:</p>
+            <p id="distrito"></p>
+        </div>
+        <div class="dato">
+            <p class="label">Direccion:</p>
+            <p id="direccion"></p>
+        </div>
+        <div class="dato">
+            <p class="label">Codigo Postal:</p>
+            <p id="codigo"></p>
+        </div>
+    </div>
 </body>
 </html>

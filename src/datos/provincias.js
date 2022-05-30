@@ -1,4 +1,14 @@
-export default [
+export const nombresProvincias = [
+    'San José',
+    'Alajuela',
+    'Cartago',
+    'Heredia',
+    'Guanacaste',
+    'Puntarenas',
+    'Limón'
+]
+
+export const provincias = [
     {
         nombre: 'San José',
         cantones: [
