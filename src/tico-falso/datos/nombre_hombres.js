@@ -1,3 +1,4 @@
+
 const nombresHombres = [
     'Andrés',
     'Carlos',
@@ -5,6 +6,6 @@ const nombresHombres = [
     'Luis',
     'Jorge',
     'Victor'
-]
+];
 
-module.exports = {nombresHombres}
+module.exports = nombresHombres;

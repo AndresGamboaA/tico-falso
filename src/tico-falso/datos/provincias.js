@@ -1,14 +1,4 @@
-const nombresProvincias = [
-    'San José',
-    'Alajuela',
-    'Cartago',
-    'Heredia',
-    'Guanacaste',
-    'Puntarenas',
-    'Limón'
-];
-
-const provincias = [
+module.exports = [
     {
         nombre: 'San José',
         cantones: [
@@ -1000,5 +990,4 @@ const provincias = [
             }
         ]
     },
-]
-module.exports = {provincias, nombresProvincias};
+];

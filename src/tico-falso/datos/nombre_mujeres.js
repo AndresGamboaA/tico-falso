@@ -67,4 +67,4 @@ const nombresMujeres = [
     'Rocibel'
 ]
 
-module.exports = {nombresMujeres};
+module.exports = nombresMujeres;

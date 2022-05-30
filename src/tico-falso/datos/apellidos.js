@@ -1,4 +1,4 @@
-const apellidos = [
+module.exports = [
     'Rodriguez',
     'Vargas',
     'Jimenez',
@@ -41,5 +41,4 @@ const apellidos = [
     'Solis',
     'Murillo',
     'Soto'
-]
-module.exports = {apellidos};
+];
