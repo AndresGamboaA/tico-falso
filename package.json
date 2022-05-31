@@ -2,7 +2,7 @@
   "name": "tico-falso",
   "version": "0.0.1",
   "description": "Generador de informacion falsa costarricense",
-  "main": "tico-falso.js",
+  "main": "./dist/tico_falso.js",
   "directories": {
     "test": "test"
   },

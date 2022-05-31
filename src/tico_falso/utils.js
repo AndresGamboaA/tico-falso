@@ -5,4 +5,4 @@ Utils.aleatorio = function (array) {
     return array[Math.floor(Math.random() * array.length)];
 }
 
-module.exports = Utils;
+export default Utils;

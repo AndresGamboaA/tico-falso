@@ -1,4 +1,7 @@
-const nombresMujeres = [
+
+//https://nombresdepersona.com/costa-rica
+
+export default [
     'María',
     'Ana',
     'Carmen',
@@ -160,6 +163,4 @@ const nombresMujeres = [
    'Catalina',
    'Graciela',
    'Gerardina'
-]
-
-module.exports = nombresMujeres;
+];

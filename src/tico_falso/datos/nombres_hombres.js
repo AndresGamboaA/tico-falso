@@ -1,5 +1,7 @@
 
-const nombresHombres = [
+//https://nombresdepersona.com/costa-rica
+
+export default [
    'Carlos',
    'Juan',
    'Jorge',
@@ -9,7 +11,6 @@ const nombresHombres = [
    'Mario',
    'Oscar',
    'Manuel',
-   'Carmen',
    'Miguel',
    'Francisco',
    'Marco',
@@ -63,5 +64,3 @@ const nombresHombres = [
    'Rolando',
    'German'
 ];
-
-module.exports = nombresHombres;
