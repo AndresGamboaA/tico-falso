@@ -6,5 +6,4 @@ const ticoFalso = {
     ubicacion: Ubicacion
 }
 
-console.log(ticoFalso.personas.tica);
 module.exports = ticoFalso;
