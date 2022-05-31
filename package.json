@@ -13,11 +13,21 @@
     "type": "git",
     "url": "git+https://github.com/AndresGamboaA/tico-falso.git"
   },
+  "types": "index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "keywords": [
-    "javascript"
+    "javascript",
+    "costa rica",
+    "datos",
+    "tico-falso",
+    "fake data generator",
+    "generador datos falsos",
+    "datos falsos"
   ],
   "author": "Andres Gamboa Alfaro",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AndresGamboaA/tico-falso/issues"
   },
