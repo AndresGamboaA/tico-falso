@@ -1,6 +1,6 @@
 {
   "name": "tico-falso",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Generador de informacion falsa costarricense",
   "main": "./dist/tico_falso.js",
   "directories": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/AndresGamboaA/tico-falso.git"
   },
-  "types": "index.d.ts",
+  "types": "/dist/index.d.ts",
   "files": [
     "/dist"
   ],
