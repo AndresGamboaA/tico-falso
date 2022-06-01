@@ -1,4 +1,4 @@
-# TicoFalso
+# tico-falso
 Generador de información falsa costarricense.
 
 ## Instalacion
