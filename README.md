@@ -1,7 +1,7 @@
 # tico-falso
 Generador de información falsa costarricense.
 
-## Instalacion
+## Instalación
 ```shell
 npm i tico-falso
 ```
