@@ -1,5 +1,7 @@
 # tico-falso
-Generador de información falsa costarricense.
+**Generador de información falsa costarricense**
+
+tico-falso genera datos aleatorios para ser usados como prueba en proyectos costarricenses de desarrollo web.
 
 ## Instalación
 ```shell
